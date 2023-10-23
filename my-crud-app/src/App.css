@@ -1,9 +1,9 @@
-.mapContainer {
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 2em;
+.add-btn{
+  margin: auto;
+  display: block;
 }
 
-.mapContainer form {
-  margin-left: 10%;
-}
+
+
+
+
