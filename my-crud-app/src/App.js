@@ -3,7 +3,7 @@ import './App.css'
 import Hero from './components/Hero'
 import Create from './components/Create'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import Read from './Read'
+import Read from './components/Read'
 import Update from './components/Update'
 
 
