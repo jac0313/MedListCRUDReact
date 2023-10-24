@@ -17,7 +17,7 @@ return(
     <Route exact path='/create' element= {<Create/>} />
     </Routes>
     <Routes>
-    <Route exact path='/read' element= {<Read/>} />
+    <Route exact path='/' element= {<Read/>} />
     </Routes>
     <Routes>
     <Route path='/update' element= {<Update/>} />

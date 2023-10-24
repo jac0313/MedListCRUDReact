@@ -20,7 +20,7 @@ const Update = () => {
             medicationDosage,
             medicationInstructions
         }).then(() => {
-            navigate('/read')
+            navigate('/')
         })
     }
     useEffect(() => {
