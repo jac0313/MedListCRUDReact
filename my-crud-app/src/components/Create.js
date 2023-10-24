@@ -19,7 +19,7 @@ const Create = () => {
             medicationDosage,
             medicationInstructions
         }).then(() => {
-            navigate('/')
+            navigate('/read')
         })
     }
    
